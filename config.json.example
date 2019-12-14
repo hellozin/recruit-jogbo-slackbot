@@ -1,0 +1,12 @@
+{
+  "WEBHOOK_URL": "...",
+  "RABBITMQ_CONNECTION": {
+    "HOST": "...",
+    "PORT": 5672,
+    "VHOST": "..."
+  },
+  "RABBITMQ_CREDENTIALS": {
+    "USERNAME": "...",
+    "PASSWORD": "..."
+  }
+}
